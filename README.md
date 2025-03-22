@@ -1,4 +1,4 @@
-# Claude SinaiInsight - Application de Monitoring en Temps Réel
+# SinaiInsight - Application de Monitoring en Temps Réel
 
 Cette application permet le monitoring en temps réel des scénarios d'automatisation, offrant une vue complète et détaillée de l'exécution des tests et processus automatisés.
 
